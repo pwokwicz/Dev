@@ -13,6 +13,7 @@
 		C9F111562200C80A005401FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F111542200C80A005401FD /* Main.storyboard */; };
 		C9F111582200C80C005401FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9F111572200C80C005401FD /* Assets.xcassets */; };
 		C9F1115B2200C80C005401FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9F111592200C80C005401FD /* LaunchScreen.storyboard */; };
+		C9F111632204B54D005401FD /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9F111622204B54D005401FD /* City.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C9F111572200C80C005401FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9F1115A2200C80C005401FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9F1115C2200C80C005401FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9F111622204B54D005401FD /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C9F1114E2200C80A005401FD /* AppDelegate.swift */,
 				C9F111502200C80A005401FD /* MasterViewController.swift */,
 				C9F111522200C80A005401FD /* DetailViewController.swift */,
+				C9F111622204B54D005401FD /* City.swift */,
 				C9F111542200C80A005401FD /* Main.storyboard */,
 				C9F111572200C80C005401FD /* Assets.xcassets */,
 				C9F111592200C80C005401FD /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				C9F111532200C80A005401FD /* DetailViewController.swift in Sources */,
 				C9F111512200C80A005401FD /* MasterViewController.swift in Sources */,
+				C9F111632204B54D005401FD /* City.swift in Sources */,
 				C9F1114F2200C80A005401FD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
